@@ -1,4 +1,4 @@
-module github.com/synycboom/tinyman-go-sdk
+module github.com/jessedrg/tinyman-go-sdk
 
 go 1.18
 
